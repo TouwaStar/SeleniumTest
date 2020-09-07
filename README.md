@@ -12,4 +12,5 @@ Set username and password in .py file to a real account before running for auto-
 
 run by writing 
 > pytest
+
 from root directory
