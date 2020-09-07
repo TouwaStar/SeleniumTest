@@ -8,3 +8,8 @@ Selenium: pip install selenium
 pytest: pip install pytest
 
 Set username and password in .py file to a real account before running for auto-login fixture to work.
+
+
+run by writing 
+> pytest
+from root directory
